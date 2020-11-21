@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## I'm a front-end developer
+
+![github stats](https://github-readme-stats.vercel.app/api?username=BennoAlif&show_icons=true)
+
 <!--
 **BennoAlif/BennoAlif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
