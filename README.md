@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a front-end developer
+## I'm a web developer
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BennoAlif)](https://github.com/ryo-ma/github-profile-trophy)
 ![github stats](https://github-readme-stats.vercel.app/api?username=BennoAlif&show_icons=true)
